@@ -14,11 +14,6 @@ My favorite country ranking depends on the animals that live in it.
 * kangaroos
 * funnel web spiders
 
-# My favorite swiss Animals
+# My favorite American anumals
 
-* cows
-* marmots
-
-# My favorite Italian Animals
-
-* cats
+* grizzly bears
