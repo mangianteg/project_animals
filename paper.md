@@ -18,3 +18,7 @@ My favorite country ranking depends on the animals that live in it.
 
 * cows
 * marmots
+
+# My favorite Italian Animals
+
+* cats
