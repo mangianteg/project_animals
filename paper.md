@@ -17,3 +17,7 @@ My favorite country ranking depends ONLY on the animals that live in it.
 # My favorite American anumals
 
 * grizzly bears
+
+# Conclusion
+
+Be careful when you merge
